@@ -14,7 +14,7 @@ The model consists of **five main stages**:
 4. **Dual Encoding and Classification**
 5. **Evaluation with Hierarchical Metrics**
 
-![Architecture Diagram](Proposed-Methodology.png)
+![Architecture Diagram](images/Proposed-Methodology.png)
 
 ---
 
