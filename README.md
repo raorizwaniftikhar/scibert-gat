@@ -1,7 +1,3 @@
-Here's a **cleaned-up, well-structured README** version of your proposed methodology, formatted for a GitHub repository. I’ve included proper Markdown syntax, sectioning, and added a placeholder for your image (`Figure 3.1`). Make sure to replace `"images/architecture.png"` with your actual image path if it’s different.
-
----
-
 # 🧠 Hierarchical Multi-Label Classification with Graph and Contextual Embeddings
 
 This repository implements a multi-stage hierarchical classification framework that combines semantic and structural information through SciBERT and Graph Attention Networks (GAT). The architecture is designed to improve classification accuracy across multi-level category hierarchies.
