@@ -153,18 +153,7 @@ All trained parameters are used without gradient updates.
 
 ---
 
-## 🔬 Next Steps
-
-See the [experiments section](#) (if you have another file or notebook) for details on:
-
-* Training setup
-* Dataset statistics
-* Hyperparameters
-* Empirical results
-
----
-
-## 📁 Folder Structure (Optional)
+## 📁 Folder Structure
 
 ```
 ├── data/                # Raw and processed data
